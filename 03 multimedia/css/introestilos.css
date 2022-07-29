@@ -1,0 +1,38 @@
+/* estilos para colores*/
+.colores {
+  color: red;
+}
+
+.color-hexadecimal {
+  color: #6fd08c;
+}
+
+.fondos {
+  /*background-color: blueviolet;*/
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzjiiDJ3xaPoIvYXSCGiKcD_YrgRll5DoCA&usqp=CAU);
+background-position: center right ;
+}
+
+.fondos2 {
+    /*background-color: blueviolet;*/
+  background-image: url(t.jpg);
+  background-position: center right ;
+  }
+
+  .anchura{
+background-color: aqua;
+width: 100px;
+  }
+
+  .altura{
+     background-color: brown;
+     height: 100px;
+  }
+  .targeta{
+    border-style: solid;
+    border-color: burlywood;
+    border-width: 3px;
+   
+    padding: 10px;
+    margin: 10px;
+  }

@@ -1,0 +1,39 @@
+h3 {
+  color: red;
+}
+
+/*Estoy probando colores y fuentes */
+p {
+  color: blue;
+  font-size: 15px;
+}
+
+#primera {
+  color: blueviolet;
+}
+
+#segunda {
+  color: brown;
+}
+
+.encabesado {
+  color: chartreuse;
+}
+
+* {
+  color: yellow;
+}
+
+.autor {
+  color: black;
+  text-decoration: underline;
+}
+.fecha {
+  color: black;
+  text-decoration: underline;
+}
+
+.ubicacion {
+  color: black;
+  text-decoration: underline;
+}
